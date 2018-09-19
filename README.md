@@ -1,6 +1,6 @@
 # python-udp-server
 
-Simple implementation of a UDP server and client in pithon.
+Simple implementation of a UDP server and client in python.
 Written for an assignment to a Computer Networking class.
 
 ## the server
